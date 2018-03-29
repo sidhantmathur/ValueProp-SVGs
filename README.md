@@ -1,2 +1,3 @@
 # ValueProp-SVGs
-SVG Value Prop for a future project
+SVG Value Proposition templates for a future project. 
+
